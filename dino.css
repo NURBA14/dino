@@ -1,0 +1,91 @@
+.nm {
+    background-color: rgb(183, 210, 234);
+}
+
+.game {
+    width: 600px;
+    height: 200px;
+    border-bottom: 5px solid #26c706;
+    margin: auto;
+    background-color: white;
+}
+
+#output {
+    background-color: #8ecc30;
+    border: 1px solid #ccc;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    color: #333;
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    top: 70px;
+    left: 200px;
+}
+
+#sun {
+    width: 70px;
+    height: 70px;
+    background-image: url(img_542346.png);
+    background-size: 70px 70px;
+    position: relative;
+    left: 520px;
+    bottom: 80px;
+}
+
+#dino {
+    width: 50px;
+    height: 50px;
+    background-image: url(d1.gif);
+    background-size: 50px 50px;
+    position: relative;
+    top: 150px;
+    left: 80px;
+}
+
+#cactus {
+    width: 20px;
+    height: 40px;
+    background-image: url(cacti---cacti2.png);
+    background-size: 20px 40px;
+    position: relative;
+    top: 110px;
+    left: 580px;
+}
+
+#startButton, #stopButton, #restartButton{
+    background-color: #8ecc30;
+    width: 150px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 4px;
+    color: #333;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: 80px;
+    left: 42px;
+}
+
+#timer {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    color: #333;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    bottom: 334px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Creator {
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 180px;
+    left: 690px;
+    width: 190px;
+    height: 20px;
+    color: #333;
+}
